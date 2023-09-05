@@ -41,6 +41,6 @@ You don't need any server setup; you can run this project locally by opening the
 Wikipedia API for providing access to Wikipedia data.
 
 ## Contact
-If you have any questions or feedback, feel free to contact us at your.email@example.com.
+If you have any questions or feedback, feel free to contact me at harshd941@gmail.com.
 
 
