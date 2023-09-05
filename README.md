@@ -21,7 +21,7 @@ Follow these instructions to set up and run the project on your local machine.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/wikipedia-search-engine.git
+   git clone https://github.com/harsh684/Search_Engine.git
 
 2. **Open index.html in your web browser.**
 
